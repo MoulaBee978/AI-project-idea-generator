@@ -58,8 +58,6 @@ Notes
 - This project uses a Gemini REST client to generate project ideas via the Gemini API.
 - Set `GEMINI_API_KEY` in `backend/.env` or your environment, and optionally customize `GEMINI_MODEL`.
 
-Screenshots
-- Add screenshots in the `docs/` folder or update README later.
 
 Future improvements
 - Add caching and a ChromaDB-backed vector store to save previously generated ideas
