@@ -13,7 +13,7 @@
 
 <p align="center">
   <b>✨ Never run out of software project ideas again! ✨</b><br>
-  <i>An intelligent AI-powered tool that generates tailored, practical, and innovative software project ideas<br>based on your preferences — built with LangChain + Google Gemini AI</i>
+  <i>An intelligent AI-powered tool that generates tailored, practical, and innovative software project ideas<br>based on your preferences — built with LangChain + Google Gemini .AI</i>
 </p>
 
 ---
